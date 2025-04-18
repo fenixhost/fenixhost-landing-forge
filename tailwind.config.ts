@@ -19,6 +19,12 @@ export default {
 		},
 		extend: {
 			colors: {
+        fenix: {
+          orange: '#FF4B14',
+          dark: '#1A1F2C',
+          light: '#F5F5F7',
+          gray: '#8E9196'
+        },
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
