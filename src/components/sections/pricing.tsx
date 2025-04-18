@@ -1,10 +1,9 @@
-
 import { Button } from "../ui/button";
 import { Check, Zap } from "lucide-react";
 
 export function Pricing() {
   return (
-    <section id="precios" className="py-24 bg-gradient-to-b from-fenix-dark/95 to-fenix-dark">
+    <section id="precios" className="py-24 bg-[#001132]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4 bg-clip-text text-transparent bg-gradient-to-r from-white to-fenix-orange">
